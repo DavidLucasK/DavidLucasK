@@ -1,4 +1,4 @@
-## Opa, eaí! Meu nome é David Lucas, sou desenvolvedor e sou apaixonado e MUITO curioso quando o assunto é tecnologia!
+## Opa, eaí! Meu nome é David Lucas, sou desenvolvedor e sou MUITO apaixonado e curioso quando o assunto é tecnologia!
 <div style="display: inline_block"><br>
   <h3>Essas são algumas das principais linguagens que conheço e trabalho</h3>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
