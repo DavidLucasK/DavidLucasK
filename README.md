@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://davidlucasfr.com.br" target="_blank">
-    <img src="https://davidlucas.vercel.app/assets/portfolio.png" alt="Portfolio Preview" width="100%" />
+    <img src="https://raw.githubusercontent.com/DavidLucasK/Portfolio/main/assets/portfolio.webp" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
