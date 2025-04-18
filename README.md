@@ -14,6 +14,8 @@
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidLucasK&theme=omni)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DavidLucasK&theme=omni&rank=S,AAA,AA,A,B)
 ---
 
 <div> 
