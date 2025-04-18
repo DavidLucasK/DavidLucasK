@@ -2,8 +2,8 @@
 <div style="display: inline_block"><br>
   <div align="center">
   <a href="https://github.com/DavidLucasK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLucasK&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLucasK&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLucasK&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLucasK&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   <h3>Essas são algumas das principais linguagens que conheço e trabalho</h3>
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
