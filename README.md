@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://davidlucasfr.com.br" target="_blank">
-    <img src="https://kdftwdjltmpoxoysmtpi.supabase.co/storage/v1/object/public/teste//portfolio%20novo.png" alt="Portfolio Preview" width="100%" />
+    <img src="https://kdftwdjltmpoxoysmtpi.supabase.co/storage/v1/object/public/teste//portfolio%20novo%20(1).png" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
