@@ -1,4 +1,4 @@
-## Opa, eaí! Meu nome é David Lucas, sou desenvolvedor e sou MUITO apaixonado e curioso quando o assunto é tecnologia!
+## Opa, eaí! Sou Desenvolvedor Web Full-Stack focado em soluções digitais elegantes, funcionais e intuitivas.
 <div style="display: inline_block"><br>
   <div align="center">
   <a href="https://github.com/DavidLucasK">
