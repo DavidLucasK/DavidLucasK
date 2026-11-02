@@ -1,34 +1,94 @@
-## Opa, eaí! Sou Desenvolvedor Full-Stack focado em soluções digitais elegantes, funcionais e intuitivas.
-<div style="display: inline_block"><br>
-  <div align="center">
-  <a href="https://github.com/DavidLucasK">
-</div>
-  <h3>Essas são algumas das principais linguagens que conheço e trabalho</h3>
-  <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="David-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-##
+<div align="center">
 
-<div> 
-  <a href="https://www.instagram.com/david.lucask" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:davidlucasfr70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C62828?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/david-lucas-a21208176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# David Lucas
+
+### Desenvolvedor Full-Stack
+
+Construindo soluções digitais que combinam **tecnologia, design e experiência do usuário**.
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-Visitar-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davidlucasfr.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lucas-a21208176)
+
 </div>
-
 
 ---
 
-## 🌐 Meu Portfólio
+## Sobre mim
 
-<p align="center">
-  <a href="https://davidlucasfr.com.br" target="_blank">
-    <img src="https://gqcckzzgesdcivrgruqe.supabase.co/storage/v1/object/public/Test/portfolio.png" alt="Portfolio Preview" width="100%" />
-  </a>
-</p>
+Olá! Sou desenvolvedor Full-Stack apaixonado por tecnologia e pela criação de produtos digitais.
+
+Gosto de transformar ideias e desafios em soluções eficientes, intuitivas e visualmente agradáveis. Meu foco está em desenvolver aplicações que vão além do código: produtos que oferecem uma boa experiência e resolvem problemas reais.
+
+- Desenvolvimento de aplicações web Full-Stack
+- Criação de interfaces modernas e responsivas
+- Desenvolvimento de soluções escaláveis e funcionais
+- Aprendizado contínuo e evolução técnica
 
 ---
+
+## Tecnologias
+
+<div align="center">
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts" alt="React, Next.js, Vue.js e TypeScript" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,cs,dotnet,python" alt="NestJS, Node.js, C#, .NET e Python" />
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+
+### Infraestrutura e Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,gcp,aws" alt="Docker, Google Cloud e AWS" />
+
+</div>
+
+---
+
+## Projetos em destaque
+
+<div align="center">
+
+<a href="https://davidlucasfr.com.br">
+  <img src="https://gqcckzzgesdcivrgruqe.supabase.co/storage/v1/object/public/Test/portfolio.png" width="100%" alt="Prévia do meu portfólio" />
+</a>
+
+### Meu Portfólio
+
+Uma apresentação dos meus projetos, habilidades e experiências como desenvolvedor.
+
+[**Acessar portfólio →**](https://davidlucasfr.com.br)
+
+</div>
+
+---
+
+## Vamos conversar?
+
+Estou sempre aberto a conhecer novas pessoas, trocar experiências e explorar oportunidades de colaboração.
+
+<div align="center">
+
+<a href="mailto:davidlucasfr70@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/david-lucas-a21208176">
+  <img src="https://img.shields.io/badge/LinkedIn-David%20Lucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/david.lucask">
+  <img src="https://img.shields.io/badge/Instagram-@david.lucask-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+<div align="center">
+
+<sub>Desenvolvido com dedicação por David Lucas.</sub>
+
+</div>
