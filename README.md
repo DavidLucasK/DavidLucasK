@@ -7,8 +7,8 @@
 
 Construindo soluções digitais que combinam **tecnologia, design e experiência do usuário**.
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-Visitar-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davidlucasfr.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lucas-a21208176)
+[![Portfolio](https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davidlucasfr.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lucas-a21208176)
 
 </div>
 
