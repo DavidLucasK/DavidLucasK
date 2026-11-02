@@ -41,7 +41,7 @@ Gosto de transformar ideias e desafios em soluções eficientes, intuitivas e vi
 
 ### Banco de dados
 
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" alt="PostgreSQL, MySQL e Oracle SQL" />
 
 ### Infraestrutura e Cloud
 
