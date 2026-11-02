@@ -89,6 +89,4 @@ Estou sempre aberto a conhecer novas pessoas, trocar experiências e explorar op
 
 <div align="center">
 
-<sub>Desenvolvido com dedicação por David Lucas.</sub>
-
 </div>
